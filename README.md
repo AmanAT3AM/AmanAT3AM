@@ -1,6 +1,25 @@
 # 💫 About Me:
-👋 Hi there, I’m Aman.<br><br>🔭 I’m currently working on:<br>A cross-platform mobile app using Flutter that helps users track daily habits and visualize progress with analytics.<br><br>👯 I’m looking to collaborate on:<br>Open-source mobile development projects, especially in Flutter, React Native, or Android Jetpack Compose.<br><br>🤝 I’m looking for help with:<br>Integrating AI-powered features (like chatbots or recommendation systems) into mobile apps.<br><br>🌱 I’m currently learning:<br>Advanced Flutter animations, backend integration with Firebase & Supabase, and CI/CD pipelines for mobile apps.<br><br>💬 Ask me about:<br>Mobile app architecture, UI/UX design in Flutter, Firebase integration, or publishing apps to the Play Store and App Store.<br><br>⚡ Fun fact:<br>I started coding by modding my favorite mobile game — and ended up building my own!
+👋 Hi there, I’m Aman.
 
+🍎 iOS Developer | Swift • SwiftUI • UIKit
+
+🔭 Currently working on:
+Native iOS applications using SwiftUI, focused on clean architecture, smooth animations, and scalable features.
+
+👯 Looking to collaborate on:
+Open-source iOS projects, especially apps built with SwiftUI, UIKit, or modern iOS frameworks.
+
+🤝 Looking for help with:
+Integrating AI-powered features (chatbots, smart recommendations, on-device ML) into iOS apps.
+
+🌱 Currently learning:
+Advanced SwiftUI animations, Core Data, Firebase & Supabase integration, and CI/CD pipelines for iOS apps.
+
+💬 Ask me about:
+iOS app architecture (MVVM), SwiftUI vs UIKit, Firebase integration, or publishing apps to the App Store.
+
+⚡ Fun fact:
+I started coding by modding a mobile game—and that curiosity led me to become an iOS developer 🚀
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/amankumhar/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@amanp183rajapati) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prajapatiaman18113@gmail.com) 
